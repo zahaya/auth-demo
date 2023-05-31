@@ -1,0 +1,30 @@
+.counter {
+  display: flex;
+  align-items: center;
+}
+
+
+.sub,
+.add {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  line-height: 40rem;
+  border: none;
+  background-color: #FCBF49;
+  width: 36rem;
+  height: 36rem;
+  border-radius: 50%;
+  font-size: 24rem;
+}
+
+.sub {
+  background-color: white;
+  border: 1px solid black;
+}
+
+.count {
+  font-size: 32rem;
+  margin: 0 5px;
+}
